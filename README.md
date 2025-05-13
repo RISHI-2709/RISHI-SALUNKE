@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Vijendra Salunke</h1>
-<h3 align="center">Aspiring Data Analyst currently pursuing a BSc in Computer Science from the University of Mumbai. Proficient in Python, SQL, and Power BI with hands-on experience in building data-driven and analytical applications. Strong problem-solving, communication, and teamwork abilities. Eager to leverage analytical skills and technical knowledge to extract insights and support data-driven decision-making.</h3>
+<h3 align="center">Aspiring Software Engineer currently pursuing a BSc in Computer Science from the University of Mumbai. Proficient in Python, SQL, and Power BI with hands-on experience in building data-driven and analytical applications. Strong problem-solving, communication, and teamwork abilities. Eager to leverage analytical skills and technical knowledge to extract insights and support data-driven decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-27&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-27" /> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishi salunke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi salunke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishi-salunke-576959304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi salunke" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
